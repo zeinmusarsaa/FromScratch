@@ -23,7 +23,7 @@
   
   /* header */
   .header {
-    background-image: url(../WebDevF/img/Jumping.jpg);
+    background-image: url(/img/Jumping.jpg);
     padding: 10px;
     text-align: center;
     font-size: 35px;
