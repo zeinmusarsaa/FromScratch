@@ -33,21 +33,24 @@
   .column {
     float: left;
     padding: 50px;
+    background-color: #628d9f;
   }
   
   /* Left and right column */
   .column.side {
     width: 25%;
+    background-color: #628d9f;
   }
   
   /* Middle column */
   .column.middle {
     width: 50%;
+    background-color: #628d9f;
   }
   /* Footer */
 
   .footer {
-    background-color: #145977;
+    background-color: #628d9f;
     padding: 10px;
     text-align: center;
   }
